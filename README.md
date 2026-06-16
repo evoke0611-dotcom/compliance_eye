@@ -38,7 +38,6 @@ Compliance Eye is a Streamlit-based ISO 27001 audit assistant. It helps users ru
 |   |-- knowledge_base/          # ISO source, JSONL chunks, metadata, FAISS index
 |   |-- questions/               # Question banks and assessment source files
 |   `-- runtime/                 # Local database and runtime-generated data
-|-- docs/project/                # Project briefs and reference documents
 `-- requirements.txt             # Python dependencies
 ```
 
