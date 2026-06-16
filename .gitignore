@@ -1,0 +1,53 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+config.py
+*.key
+*.pem
+
+# Streamlit local state
+.streamlit/secrets.toml
+
+# Runtime data and generated local outputs
+data/runtime/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Generated reports and temporary documents
+reports/
+exports/
+output/
+tmp/
+temp/
+~$*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Build and packaging output
+build/
+dist/
+*.egg-info/

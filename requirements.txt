@@ -1,0 +1,17 @@
+PyMuPDF
+tiktoken
+faiss-cpu
+sentence-transformers
+numpy
+openai
+streamlit
+pandas
+pydantic
+python-docx
+pdfplumber
+pytesseract
+Pillow
+openpyxl
+torchvision
+matplotlib
+fpdf2

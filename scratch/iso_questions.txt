@@ -1,0 +1,59 @@
+ISO 27001 Assessment Questionnaire (55
+Questions)
+Q1. Do you understand internal security challenges? A. No B. Informal C. Documented D.
+Regularly reviewed
+Q2. Do you track external security factors? A. No B. Informal C. Documented D. Regularly updated
+Q3. Do you identify stakeholders and expectations? A. No B. Informal C. Documented D. Managed
+actively
+Q4. Is your security scope defined? A. No B. Informal C. Documented D. Reviewed regularly
+Q5. Do you have a structured security system? A. No B. Partial C. Defined D. Optimized
+Q6. Is leadership involved in security? A. No B. Limited C. Regular D. Fully engaged
+Q7. Do you have a security policy? A. No B. Exists not shared C. Shared D. Reviewed regularly
+Q8. Are roles defined? A. No B. Informal C. Defined D. Organization-wide
+Q9. Do you identify risks proactively? A. No B. Informal C. Process exists D. Integrated
+Q10. Do you maintain risk register? A. No B. Informal C. Documented D. Continuous
+Q11. Do you define acceptable risk? A. No B. Informal C. Documented D. Reviewed
+Q12. Do you treat risks formally? A. No B. Ad hoc C. Planned D. Tracked
+Q13. Do you set security goals? A. No B. Vague C. Defined D. KPI driven
+Q14. Do you maintain asset inventory? A. No B. Partial C. Complete D. Automated
+Q15. Do users follow usage rules? A. No B. Informal C. Policy exists D. Enforced
+Q16. Do you classify data? A. No B. Informal C. Defined D. Enforced
+Q17. Do you label data? A. No B. Inconsistent C. Consistent D. Automated
+Q18. Is access controlled? A. No B. Partial C. Controlled D. Automated
+Q19. Are user accounts managed? A. No B. Partial C. Proper D. Automated
+Q20. Is authentication strong? A. No B. Weak C. Strong D. Advanced
+Q21. Are access reviews done? A. No B. Rare C. Regular D. Automated
+Q22. Are admin accounts controlled? A. No B. Partial C. Controlled D. Advanced
+Q23. Is encryption used? A. No B. Partial C. Proper D. Managed
+Q24. Is physical security enforced? A. No B. Basic C. Controlled D. Advanced
+Q25. Is entry controlled? A. No B. Partial C. Controlled D. Logged
+Q26. Clear desk policy? A. No B. Informal C. Policy D. Enforced
+Q27. Offsite device security? A. No B. Basic C. Defined D. Managed
+Q28. Vulnerability management? A. No B. Irregular C. Regular D. Continuous
+Q29. Secure configurations? A. No B. Partial C. Standard D. Automated
+Q30. Backup & restore? A. No B. Not tested C. Tested D. Automated
+Q31. Logging? A. No B. Partial C. Centralized D. Monitored
+Q32. Monitoring? A. No B. Limited C. Active D. 24/7
+Q33. Incident plan? A. No B. Informal C. Defined D. Tested
+Q34. Incident reporting? A. No B. Informal C. Defined D. Fast
+Q35. Incident triage? A. No B. Informal C. Defined D. Automated
+Q36. Learn from incidents? A. No B. Informal C. Documented D. Continuous
+Q37. Business continuity? A. No B. Basic C. Defined D. Tested
+Q38. ICT resilience? A. No B. Partial C. Defined D. Tested
+Q39. Vendor security check? A. No B. Informal C. Formal D. Thorough
+Q40. Contracts include security? A. No B. Basic C. Defined D. Strong
+Q41. Supplier monitoring? A. No B. Occasional C. Regular D. Continuous
+Q42. Security metrics? A. No B. Informal C. Defined D. Advanced
+Q43. Internal audits? A. No B. Informal C. Regular D. Risk-based
+Q44. Management review? A. No B. Informal C. Regular D. Strategic
+Q45. Corrective actions? A. No B. Partial C. Structured D. Optimized
+Q46. Do you provide security awareness training? (Yes/No)
+Q47. Do you revoke access immediately after exit? (Yes/No)
+Q48. Are incidents reported quickly? (Yes/No)
+Q49. Do you audit passwords regularly? (Yes/No)
+Q50. Are patches applied regularly? (Yes/No)
+Q51. Do you have disaster recovery plan? (Yes/No)
+Q52. Are devices protected with antivirus? (Yes/No)
+Q53. Is data access role-based? (Yes/No)
+Q54. Do vendors follow your policies? (Yes/No)
+Q55. Are policies reviewed annually? (Yes/No)
